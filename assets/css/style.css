@@ -138,7 +138,7 @@ Mobile
     .is-main .is-column { padding: 1.5rem; }
     .is-main .is-left-column { width: 100%; }
     .is-main .is-right-column { width: 100%; }
-    .is-main .is-blur h2 { font-size: .875rem; margin: 0; width: 100%; text-wrap: balance; }
+    .is-main .is-blur h2 { font-size: .875rem; margin: 0; width: 100%; padding: 0; border: 0; }
     .is-main .is-blur h2 img { width: 24px; height: 24px; }
     /*Con blocchi nascosti*/
     .is-main .is-right-column.is-disabled { padding: 1.5rem; }
